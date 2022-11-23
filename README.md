@@ -8,4 +8,9 @@ This is a 2D fighting game where the user battles locally with another player wi
 * Lil Uzi Vert
 * Lil Wayne
 
+## Collaborator 
+
+- Yorick Ntwari Niyonkuru
+- Vathusan Vimalarajan
+
 
