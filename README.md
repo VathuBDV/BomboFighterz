@@ -1,2 +1,11 @@
 # BomboFighterz
-This is a 2 player fighting game that was made as the final project for my Game Programming Class. Created by Yorick-Ntwari Niyonkuru.
+
+## Description
+
+This is a 2D fighting game where the user battles locally with another player with the choice of one these 3 rappers:
+
+* Drake 
+* Lil Uzi Vert
+* Lil Wayne
+
+
