@@ -8,6 +8,8 @@ This is a 2D fighting game where the user battles locally with another player wi
 * Lil Uzi Vert
 * Lil Wayne
 
+This was the final project for my Game Programming course during the Fall semester of the year 2021
+
 ## Collaborator 
 
 - Yorick Ntwari Niyonkuru
